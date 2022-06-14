@@ -8,4 +8,7 @@ A simple LAN Instant Messager (both server and client).
 ## ⚠️ This project is still in an early stage. Only LAN chatting is supported.
 Other functions like file transfering, group chat, friend system, TUI, will be added in a further version.
 
-## 
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/52024723/173493502-5ec99fb4-4ee0-47f5-96ac-98fa7c68a3fb.png)
+
